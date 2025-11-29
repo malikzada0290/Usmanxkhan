@@ -80,7 +80,7 @@ except:print('\n Pycurl Module Error!\n Contact With Owner! ');exit()
 
 import random
 
-os.system('xdg-open https://youtube.com/@yeitechmonto?si=KuFvD1d932SY-U6G')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100004089789577')
 
 
 
